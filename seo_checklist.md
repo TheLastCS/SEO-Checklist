@@ -1,10 +1,6 @@
-![image](http://f.cl.ly/items/1F0y2N1W3V1M1v2m2k1C/wdtuts-logo.png)
 
 #SEO Checklist
-
-Thank you for downloading the SEO checklist. Learn it by heart or simply print it out for your next SEO project.
-
-You can consult the [complete SEO session](http://webdesign.tutsplus.com/sessions/seo-fundamentals-for-web-designers/) on Webdesigntuts+ for future reference.
+Created by Christian Stewart
 
 ***
 
