@@ -6,7 +6,3 @@ A checklist to help web designers bring order to their SEO chaos. You'll find li
  * PDF
  * HTML
  * Evernote
-
-
-
-http://webdesign.tutsplus.com/articles/general/seo-checklist/
